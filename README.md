@@ -67,7 +67,7 @@
 - 📧 Email: [sonawaneabhishek034@gmail.com](mailto:sonawaneabhishek034@gmail.com)
 - 📸 Instagram: [@abhithenext](https://www.instagram.com/abhithenext/)
 - 🔗 LinkedIn: [Abhishek Sonawane](https://www.linkedin.com/in/abhishek-sonawane-962b6a309/)
-- 🌐 Portfolio: [cozabhiiilovesyou.vercel.app](https://cozabhiiilovesyou.vercel.app/)
+- 🌐 Portfolio: [cozabhiiilovesyou.vercel.app](https://abhithenext.vercel.app/)
 
 ---
 
